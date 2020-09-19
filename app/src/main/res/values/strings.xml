@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeraPractica</string>
+    <string name="huser">Usuario</string>
+    <string name="hpass">Contraseña</string>
+</resources>
